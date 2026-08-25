@@ -15,7 +15,21 @@ The system provides personalized calibration, real-time markerless movement trac
 ### Gamified Training
 ![Training Stage](assets/training-stage.png)
 
-## Key Features
+## Demo Videos
+
+### Calibration and Tracking
+
+
+https://github.com/user-attachments/assets/1a9b7fb5-916a-4567-940d-0a5aebb1d5f6
+
+
+### Gamified Training
+
+
+
+https://github.com/user-attachments/assets/f9e425ae-42b7-429f-b40c-75badfe3bc8e
+
+
 
 - Webcam-based and sensor-free operation
 - Personalized movement calibration
